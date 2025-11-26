@@ -2,7 +2,7 @@ End-to-End Marketing Analytics Project
 
 1. Project Overview
 
-This project is an end-to-end data analysis of an e-commerce company, "ShopEasy." The company faced declining customer engagement and conversion rates despite high marketing expenses. The goal of this analysis is to diagnose the key drivers of these issues and provide data-driven recommendations to improve marketing ROI, customer engagement, and sales.
+This project is an end-to-end data analysis of an e-commerce company. The company faced declining customer engagement and conversion rates despite high marketing expenses. The goal of this analysis is to diagnose the key drivers of these issues and provide data-driven recommendations to improve marketing ROI, customer engagement, and sales.
 
 This project demonstrates the complete data analysis workflow:
 
